@@ -21,13 +21,13 @@ login to our Judoon account, which will take us to this page:
 ![moo](img/quickstart-overview.png)
 [(fullsize)](./img/fullsize/quickstart-overview.png)
 
-Next, we in the click on the 'Upload Dataset' button and select our
-spreadsheet.
+Next, we in the click on the `Browse` button next to **Add Dataset**
+button and select our spreadsheet.
 
 ![moo](img/quickstart-upload.png)
 [(fullsize)](./img/fullsize/quickstart-upload.png)
 
-Click 'Submit', and then you will be taken to a page that looks like
+Click `Upload`, and then you will be taken to a page that looks like
 this:
 
 ![moo](img/quickstart-view.png)
