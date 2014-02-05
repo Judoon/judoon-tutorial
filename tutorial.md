@@ -32,8 +32,50 @@ postamble on our view.
 
 ## Customizing our view
 
-![moo](img/0.png)
+A dynamic table is great, but you probably want to customize it beyond
+the boilerplate provided.  Click on the `Edit` tab, and your screen
+will look like this:
 
+![moo](img/customizing-edit.png)
+
+To change the **title**, click on the text and a toolbar with formatting
+buttons will appear.  Type whatever text you like inside the box.
+
+![moo](img/customizing-title.png)
+
+You can highlight portions of the text and use the buttons to set
+the inline formatting that you want.  Available options include:
+bolding, italics, underlining, strikethroughs, superscripts, and
+subscripts.
+
+![moo](img/customizing-title-style.png)
+
+Next, edit the **preamble**.  Editing the preamble is a lot like
+editing the title, but with many more formatting options available to
+you.
+
+![moo](img/customizing-preamble.png)
+
+We'll ignore the column editing for now.  If you'd like to jump ahead,
+see [Fancier views](#fancier-views). At the bottom of the page is the
+**postamble**, which you can edit just like the preamble.
+
+![moo](img/customizing-postamble.png)
+
+When you're done editing, click the `Save` button, and you'll be
+notified that your changes have been saved.
+
+![moo](img/customizing-click-save.png)
+
+![moo](img/customizing-saved.png)
+
+Click on the `Preview` tab and you can see your new view as it will
+appear in all it's awesome glory!
+
+![moo](img/customizing-preview.png)
+
+Now, we'll talk about making our new view publicly available.
+    
 ## Publishing our data
 
 ![moo](img/0.png)
