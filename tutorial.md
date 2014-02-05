@@ -1,3 +1,14 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Quick start: or spreadsheet-to-webpage in 10 seconds](#quick-start-or-spreadsheet-to-webpage-in-10-seconds)
+- [Customizing our view](#customizing-our-view)
+- [Publishing our data](#publishing-our-data)
+- [Fancier views: adding emphasis, links, & images](#fancier-views-adding-emphasis-links-&-images)
+- [Annotating data for easier linking](#annotating-data-for-easier-linking)
+- [Joining other datasets](#joining-other-datasets)
+- [Hosting your own webpage](#hosting-your-own-webpage)
+- [Formatting your spreadsheet](#formatting-your-spreadsheet)
+
 ## Quick start: or spreadsheet-to-webpage in 10 seconds
 
 Now we'll walk you through an example of building a **view**.
