@@ -89,7 +89,48 @@ Now, we'll talk about making our new view publicly available.
     
 ## Publishing our data
 
-![moo](img/0.png)
+Sharing is what makes the web so wonderful!  Let's allow the world to
+see the data we've worked so hard to generate.  Above the **title** is
+a button that says `Public` and `Private`.  Click `Public`, then click
+the `Save` button.
+
+![moo](img/publishing-button.png)
+
+A message will appear to let you know that making your page public
+will necessarily make the underlying dataset public.  If this is
+acceptable, click `OK`.  If not, you can continue to use Judoon, but
+no one else will be able to see your data.
+
+![moo](img/publishing-confirm.png)
+
+Our dataset has been made public!
+
+![moo](img/publishing-saved.png)
+
+Now logout so we can see what the general public sees.  This will take
+us to the frontpage.
+
+![moo](img/publishing-logout.png)
+![moo](img/publishing-index.png)
+
+In the navigation bar across the top, click on `Browse` &gt; `Public
+Views`.
+
+![moo](img/publishing-viewnav.png)
+
+This will show us a list of all public views.
+
+![moo](img/publishing-publiclist.png)
+
+Click on the view we just created, and you can see how our view
+appears to the general public.
+
+![moo](img/publishing-publicview.png)
+
+We have now turned our spreadsheet into a searchable, sortable webpage
+that is shared with the world.  That's pretty nifty, but the real
+power of the web is in providing links to other related resources.
+Which brings us to our next section...
 
 ## Fancier views: adding emphasis, links, & images
 
